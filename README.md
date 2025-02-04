@@ -24,6 +24,6 @@ Mi trayectoria destaca por mi capacidad para planificar, optimizar recursos y ej
 - Resolución de problemas: Identificación y resolución rápida de defectos y problemas en las aplicaciones.
 - Capacidad de Aprendizaje Rápido: Adquisición de nuevas herramientas y tecnologías de manera eficiente. 
 
-<a href="www.linkedin.com/in/pilar-leyva-maldonado" target="_blank">
+<a href="https://www.linkedin.com/in/pilar-leyva-maldonado" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
