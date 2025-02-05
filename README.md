@@ -19,12 +19,25 @@ Mi trayectoria destaca por mi capacidad para planificar, optimizar recursos y ej
 
 ### Competencias
 
-- Trabajo en equipo: Comunicación efectiva con desarrolladores y otros analistas para garantizar la calidad del software.
-- Gestión de proyectos: Capacidad para manejar múltiples proyectos bajo presiones de tiempo.
-- Resolución de problemas: Identificación y resolución rápida de defectos y problemas en las aplicaciones.
-- Capacidad de Aprendizaje Rápido: Adquisición de nuevas herramientas y tecnologías de manera eficiente. 
+- Trabajo en equipo
+- Gestión de proyectos
+- Resolución de problemas
+- Capacidad de Aprendizaje Rápido
 
 <a href="https://www.linkedin.com/in/pilar-leyva-maldonado" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+## Proyectos
+
+### Urban Routes Automation Test
+
+<a href="https://github.com/LeyvaPilar/qa-project-Urban-Routes-es/blob/main/test_set_route_1.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/LeyvaPilar/qa-project-Urban-Routes-es/refs/heads/main/test_set_route_1.png" alt="Test example image">
+</a>
+
+[🔗Publicación](https://github.com/LeyvaPilar/qa-project-Urban-Routes-es/blob/main/test_set_route_1.png)
+
+### Descripción del Proyecto
+
+Este proyecto consiste en una suite de pruebas automatizadas diseñada para validar la funcionalidad completa del proceso de solicitud de taxi en la aplicación Urban Routes. Las pruebas automatizadas verifican de manera exhaustiva cada paso del flujo del usuario, desde la configuración inicial de la dirección hasta la asignación final del conductor.
