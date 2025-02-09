@@ -40,7 +40,7 @@ Este proyecto consiste en una suite de pruebas automatizadas diseñada para vali
   <img src="https://raw.githubusercontent.com/LeyvaPilar/qa-project-Urban-Routes-es/refs/heads/main/test_set_route_1.png" alt="Test example image">
 </a>
 
-[🔗Publicación](https://github.com/LeyvaPilar/qa-project-Urban-Routes-es/blob/main/test_set_route_1.png)
+[🔗Publicación](https://github.com/LeyvaPilar/qa-project-Urban-Routes-es/tree/main)
 
 
 ### Urban.Lunch
