@@ -30,7 +30,11 @@ Mi trayectoria destaca por mi capacidad para planificar, optimizar recursos y ej
 
 ## Proyectos
 
-### Urban Routes Automation Test
+### Urban.Routes Automation Test
+
+### Descripción del proyecto
+
+Este proyecto consiste en una suite de pruebas automatizadas diseñada para validar la funcionalidad completa del proceso de solicitud de taxi en la aplicación Urban Routes. Las pruebas automatizadas verifican de manera exhaustiva cada paso del flujo del usuario, desde la configuración inicial de la dirección hasta la asignación final del conductor.
 
 <a href="https://github.com/LeyvaPilar/qa-project-Urban-Routes-es/blob/main/test_set_route_1.png" target="_blank">
   <img src="https://raw.githubusercontent.com/LeyvaPilar/qa-project-Urban-Routes-es/refs/heads/main/test_set_route_1.png" alt="Test example image">
@@ -38,6 +42,34 @@ Mi trayectoria destaca por mi capacidad para planificar, optimizar recursos y ej
 
 [🔗Publicación](https://github.com/LeyvaPilar/qa-project-Urban-Routes-es/blob/main/test_set_route_1.png)
 
-### Descripción del Proyecto
 
-Este proyecto consiste en una suite de pruebas automatizadas diseñada para validar la funcionalidad completa del proceso de solicitud de taxi en la aplicación Urban Routes. Las pruebas automatizadas verifican de manera exhaustiva cada paso del flujo del usuario, desde la configuración inicial de la dirección hasta la asignación final del conductor.
+### Urban.Lunch
+
+### Descripción del proyecto
+
+El presente detalla los resultados de las pruebas realizadas a la aplicación móvil Urban.Lunch, un sistema de pedidos y entrega de alimentos. Las pruebas fueron ejecutadas en un entorno controlado utilizando Android Studio
+
+<a href="https://github.com/LeyvaPilar/Mobile-Tests-for-Urban-Lunch-/blob/d19cad06e87eae3fc4dcfe3e99d157445ae56aab/8%20(1).png" target="_blank">
+  <img src="https://github.com/LeyvaPilar/Mobile-Tests-for-Urban-Lunch-/blob/d19cad06e87eae3fc4dcfe3e99d157445ae56aab/8%20(1).png?raw=true" alt="Emulador">
+</a>
+
+[🔗Publicación](https://github.com/LeyvaPilar/Mobile-Tests-for-Urban-Lunch-)
+
+
+### Urban.Scooter
+
+### Descripción del proyecto
+Se realizó una evaluación integral del sistema Urban Scooter, incluyendo aplicación web y móvil, utilizando diversas técnicas de testing para garantizar la calidad del software. El proyecto abarcó pruebas exhaustivas y documentación detallada de errores.
+
+
+<a href="https://github.com/LeyvaPilar/Urban-Scooter-final-project/blob/main/Android_emulator.png" target="_blank">
+  <img src="https://github.com/LeyvaPilar/Urban-Scooter-final-project/blob/main/Android_emulator.png?raw=true" alt="Pruebas multinavegador">
+</a>
+
+[🔗Publicación](https://github.com/LeyvaPilar/Urban-Scooter-final-project/tree/main)
+
+
+
+
+
+
