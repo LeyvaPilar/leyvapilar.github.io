@@ -68,16 +68,12 @@ Se realizó una evaluación integral del sistema Urban Scooter, incluyendo aplic
 
 [🔗Publicación](https://github.com/LeyvaPilar/Urban-Scooter-final-project/tree/main)
 
-
-
-
-
 ## Contactame
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pilar-leyva-maldonado)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pilar.leyva66@gmail.com)
 
+<a href="https://www.linkedin.com/in/pilar-leyva-maldonado" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-
-
-
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pilar.leyva66@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Click to create gmail email">
+</a>
