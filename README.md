@@ -30,7 +30,7 @@ Mi trayectoria destaca por mi capacidad para planificar, optimizar recursos y ej
 
 ## Proyectos
 
-### Urban.Routes Automation Test
+### Urban.Routes Automation Test - Rentas de servicios y medios de transporte
 
 ### Descripción del proyecto
 
@@ -45,7 +45,7 @@ Este proyecto consiste en una suite de pruebas automatizadas diseñada para vali
 
 ### Urban.Lunch
 
-### Descripción del proyecto
+### Descripción del proyecto - Aplicación Móvil para pedir Comida
 
 El presente detalla los resultados de las pruebas realizadas a la aplicación móvil Urban.Lunch, un sistema de pedidos y entrega de alimentos. Las pruebas fueron ejecutadas en un entorno controlado utilizando Android Studio
 
@@ -56,7 +56,7 @@ El presente detalla los resultados de las pruebas realizadas a la aplicación m�
 [🔗Publicación](https://github.com/LeyvaPilar/Mobile-Tests-for-Urban-Lunch-)
 
 
-### Urban.Scooter
+### Urban.Scooter - Rentas de servicios y otros medios de transporte por periodos 
 
 ### Descripción del proyecto
 Se realizó una evaluación integral del sistema Urban Scooter, incluyendo aplicación web y móvil, utilizando diversas técnicas de testing para garantizar la calidad del software. El proyecto abarcó pruebas exhaustivas y documentación detallada de errores.
